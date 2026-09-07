@@ -148,6 +148,12 @@
 /* Text for the share menu option when a user wants to add the site to Shortcuts */
 "ShareMenu.AddToShortcuts" = "Pievienot īsceļiem";
 
+/* Text for the share menu option when a user wants to reload the site as a desktop */
+"ShareMenu.RequestDesktop" = "Pieprasīt vietni darbvirsmai";
+
+/* Text for the share menu option when a user wants to reload the site as a mobile device */
+"ShareMenu.RequestMobile" = "Pieprasīt vietni viedierīcēm";
+
 /* Text for the share menu option when a user wants to open the current website in the default browser. */
 "ShareMenu.ShareOpenDefaultBrowser" = "Atvērt noklusējuma pārlūkā";
 
@@ -159,6 +165,9 @@
 
 /* Button to add a specified shortcut option to Siri. */
 "Siri.addTo" = "Pievienot Siri";
+
+/* Text for a label that indicates the description for request desktop tip. */
+"Tip.RequestDesktop.Description" = "Lapas darbības > Pieprasīt vietni darbvirsmai";
 
 /* Text for tracking protection screen showing the connection is not secure */
 "trackingProtection.connectionNotSecureLabel" = "Savienojums nav drošs";
