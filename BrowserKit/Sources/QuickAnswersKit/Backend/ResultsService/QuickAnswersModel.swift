@@ -5,7 +5,7 @@
 import MLPAKit
 
 /// The provider model that backs the Quick Answers feature.
-public enum QuickAnswersModel: String, Sendable {
+public enum QuickAnswersModel: String, CaseIterable, Sendable {
     case exa
     case liner
 
